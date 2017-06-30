@@ -61,6 +61,10 @@ html {
     text-decoration: none;
     cursor: pointer;
 }
+.links-container .navbar-link:active {
+  color: rgb(233,50,117);
+  background-color: white;
+}
 
 
 .links-container .navbar-link:hover {
